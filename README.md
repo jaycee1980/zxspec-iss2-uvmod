@@ -36,3 +36,11 @@ Jim has a [PCBWay Shared Project](https://www.pcbway.com/project/shareproject/ZX
 You can also have them made by [JLCPCB](https://jlcpcb.com) using the BOM, CPL and Gerber files provided
 
 ![New mod PCBs](/pictures/built%20pcbs.jpg)
+
+# License
+
+This project is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike (CC BY-NC-SA)](https://creativecommons.org/licenses/by-nc-sa/4.0/) license.
+
+I am not responsible for any Spectrums damaged due to fitting this mod!
+
+If you want to sell prebuilt PCB's on your retro store, please contact me. I will normally grant this provided they are sold for reasonable cost. 
