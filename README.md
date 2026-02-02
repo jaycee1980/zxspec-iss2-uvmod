@@ -8,6 +8,8 @@ Additional thanks to Jim Smith of [Happy Little Diodes](https://www.youtube.com/
 
 I proposed prototyping a modification using a circuit on Veroboard, and he tested this out [here](https://www.youtube.com/watch?v=yTBOfa4Heks), including an early revision of the modification board. We revised it a bit so it was neater and easier to fit, and this is the result :)
 
+In [this](https://www.youtube.com/watch?v=-wrouM9OnbY) video Jim shows the final version of the mod board fitted, including the ordering process with [PCBWay](https://www.pcbway.com)
+
 # How to install it
 
 * Solder some wires to the GND, 5V and Y terminals of the mod board PCB
