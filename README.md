@@ -45,4 +45,4 @@ This project is licensed under the [Creative Commons Attribution-NonCommercial-S
 
 I am not responsible for any Spectrums damaged due to fitting this mod!
 
-If you want to sell prebuilt PCB's on your retro store, please contact me. I will normally grant this provided they are sold for reasonable cost. 
+If you want to sell prebuilt PCB's on your retro store, please contact me at github@dark-matter.me.uk. I will normally grant this provided they are sold for reasonable cost. 
